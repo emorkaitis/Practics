@@ -1,0 +1,33 @@
+.header {
+    text-transform: capitalize;
+}
+.main {
+    width: 95%;
+}
+.box {
+    border-bottom: 1px solid rgb(107, 105, 105);
+}
+.box p {
+    display: inline-block;
+}
+.box h2 {
+    text-transform: capitalize;
+}
+.left {
+    width: 90%;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.right {
+    font-style: italic;
+}
+a {
+    text-decoration: none;
+}
+.footer {
+    font-style: italic
+}
+.footer { 
+    margin-top: 0;
+    border-top: 1px solid rgb(100, 103, 104);
+}
