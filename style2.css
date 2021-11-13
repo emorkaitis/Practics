@@ -1,0 +1,35 @@
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.box {
+    background-color: blue;
+}
+.box p {
+    display: inline-block;
+    background-color: inherit;
+    width: 33%;
+    height: 30px;
+}
+.blue1 {
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    margin-right: 0pt;
+    text-transform: uppercase;
+}
+.blue2 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.blue3 {
+    text-align: right;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
